@@ -2,4 +2,4 @@
 
 ## Description
 
-I used html and css to build to build a portfolio website
+I used html and css to build a portfolio website
